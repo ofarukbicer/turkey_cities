@@ -5,6 +5,7 @@
 ![PyPI - Python Version](https://img.shields.io/pypi/pyversions/TRSehirler)
 ![PyPI - Status](https://img.shields.io/pypi/status/TRSehirler)
 ![PyPI](https://img.shields.io/pypi/v/TRSehirler)
+![PyPI - Downloads](https://img.shields.io/pypi/dm/TRSehirler)
 ![PyPI - Wheel](https://img.shields.io/pypi/wheel/TRSehirler)
 ![PyPI - License](https://img.shields.io/pypi/l/TRSehirler)
 
