@@ -1,0 +1,479 @@
+{
+  "_default": {
+    "1": {
+      "Bahşılı": {
+        "Bahşılı": {
+          "posta_kodu": 71460,
+          "mahalleler": [
+            "Atadönmez Mah",
+            "Bahçeli Mah",
+            "Doğanay Mah",
+            "Hüseyin Onbaşı Mah",
+            "Yeşilköy Mah"
+          ]
+        },
+        "Merkezköyler": {
+          "posta_kodu": 71462,
+          "mahalleler": [
+            "Bağevleri Mah (Çamlıca Köyü)",
+            "Bahçelievler Mah (Karaahmetli Köyü)",
+            "Çamlıca Köyü",
+            "Denizli Ercanlar Mah (Küreboğazı Köyü)",
+            "Esentepe Mah (Karaahmetli Köyü)",
+            "Küçüksarıkayalar Köyü",
+            "Küreboğazı Köyü",
+            "Mezra Mah (Çamlıca Köyü)",
+            "Sarıkayalar Köyü",
+            "Yayla Evleri Mah (Küreboğazı Köyü)",
+            "Yaylaevi Mah (Çamlıca Köyü)",
+            "Yeşil Konak Mah (Karaahmetli Köyü)"
+          ]
+        }
+      },
+      "Balışeyh": {
+        "Balışeyh": {
+          "posta_kodu": 71520,
+          "mahalleler": [
+            "Ballı Mah",
+            "Oba Mah",
+            "Toki Mah",
+            "Yeni Mah"
+          ]
+        },
+        "Merkezköyler": {
+          "posta_kodu": 71522,
+          "mahalleler": [
+            "Akçakavak Köyü",
+            "Aşağıkarakısık Köyü",
+            "Aydınşıh Köyü",
+            "Ayvaderesi Mah (Kenanoba Köyü)",
+            "Azgın Yaylası Mah (Kenanoba Köyü)",
+            "Bağlarbaşı Mah (Koçubaba Köyü)",
+            "Bahçelievler Mah (Koçubaba Köyü)",
+            "Battaloba Köyü",
+            "Beşbıçak Köyü",
+            "Beyobası Köyü",
+            "Bıyıkaydın Köyü",
+            "Dikmen Köyü",
+            "Dostlar Mah (Koçubaba Köyü)",
+            "Eldelek Köyü",
+            "Eldelek Mah (Beyobası Köyü)",
+            "Esentepe Mah (Mehmetbeyobası Köyü)",
+            "Fatih Mah (Kulaksız Köyü)",
+            "Gazi Mah (Kulaksız Köyü)",
+            "Hıdırşıh Köyü",
+            "Hüseyinoba Köyü",
+            "Işıklar Köyü",
+            "İzzettin Köyü",
+            "Karahocalı Mah (Kılevli Köyü)",
+            "Karalı Köyü",
+            "Kargın Köyü",
+            "Kenanoba Köyü",
+            "Kılevli Köyü",
+            "Kırlangıç Köyü",
+            "Kösedurak Köyü",
+            "Kuşburnu Mah (Mehmetbeyobası Köyü)",
+            "Mehmetbeyobası Köyü",
+            "Mevki Mah (İzzettin Köyü)",
+            "Selamlı Köyü",
+            "Ufuk Mah (Kulaksız Köyü)",
+            "Ulaklı Köyü",
+            "Uzunlar Köyü",
+            "Yassıbağ Mah (Kenanoba Köyü)",
+            "Yenice Köyü",
+            "Yenilli Köyü",
+            "Yukarıkarakısık Köyü"
+          ]
+        }
+      },
+      "Çelebi": {
+        "Çelebi": {
+          "posta_kodu": 71810,
+          "mahalleler": [
+            "Barbaros Mah",
+            "Fatih Mah",
+            "Gülveren Mah",
+            "Yeni Mah"
+          ]
+        },
+        "Merkezköyler": {
+          "posta_kodu": 71812,
+          "mahalleler": [
+            "Alıcıyeniyapan Köyü",
+            "Hacıyusuflu Köyü",
+            "Halildede Köyü",
+            "İğdebeli Köyü",
+            "Kaldırım Köyü",
+            "Karaağaç Köyü",
+            "Karaağıl Köyü",
+            "Karabucak Köyü",
+            "Karahacılı Köyü",
+            "Karayakup Köyü",
+            "Kepirli Köyü",
+            "Tilkili Köyü",
+            "Yukarışıh Köyü"
+          ]
+        }
+      },
+      "Delice": {
+        "Delice": {
+          "posta_kodu": 71700,
+          "mahalleler": [
+            "Aktepe Mah",
+            "Cumhuriyet Mah",
+            "Fatih Mah",
+            "Fevzi Çakmak Mah",
+            "Gündüz Mah",
+            "Hürriyet Mah",
+            "Karabekir Mah",
+            "Mimar Sinan Mah"
+          ]
+        },
+        "Merkezköyler": {
+          "posta_kodu": 71702,
+          "mahalleler": [
+            "Akboğaz Köyü",
+            "Alcılı Köyü",
+            "Arbişli Köyü",
+            "Aşağıihsangazili Köyü",
+            "Avşar Mah (Büyükafşar Köyü)",
+            "Aydınlar Mah (Büyükyağlı Köyü)",
+            "Bahçelievler Mah (Büyükafşar Köyü)",
+            "Bahçelievler Mah (Büyükyağlı Köyü)",
+            "Baraklı Köyü",
+            "Boğaziçi Mah (Büyükafşar Köyü)",
+            "Bozköy Köyü",
+            "Coğul Köyü",
+            "Cumhuriyet Mah (Büyükyağlı Köyü)",
+            "Çatallı Köyü",
+            "Çatallıkarakoyunlu Köyü",
+            "Çongar Köyü",
+            "Dağobası Köyü",
+            "Derekışla Köyü",
+            "Doğanören Köyü",
+            "Elmalı Köyü",
+            "Evliyalı Köyü",
+            "Fadılobası Köyü",
+            "Gökçebel Mah (Çerikli Köyü)",
+            "Gözükızıllı Köyü",
+            "Hacıobası Köyü",
+            "Halitli Köyü",
+            "Herekli Köyü",
+            "İmirli Köyü",
+            "Karaköseli Köyü",
+            "Karpuz Köyü",
+            "Karşıyaka Mah (Büyükafşar Köyü)",
+            "Kavakköy Köyü",
+            "Kocabaş Köyü",
+            "Kurtoğlu Köyü",
+            "Kuzayyurt Köyü",
+            "Küçükafşar Köyü",
+            "Merkez Mah (Çerikli Köyü)",
+            "Meşeyayla Köyü",
+            "Ocakbaşı Köyü",
+            "Sakarya Mah (Çerikli Köyü)",
+            "Sarıyaka Köyü",
+            "Şahcalı Köyü",
+            "Taşyazı Köyü",
+            "Tatlıcak Köyü",
+            "Tavaözü Köyü",
+            "Tekkeköy Köyü",
+            "Yaylayurt Köyü",
+            "Yeni Mah (Büyükafşar Köyü)",
+            "Yeni Mah (Büyükyağlı Köyü)",
+            "Yeni Mah (Çerikli Köyü)",
+            "Yeniyapan Köyü",
+            "Yerlikent Mah (Çerikli Köyü)",
+            "Yıldız Mah (Büyükyağlı Köyü)"
+          ]
+        }
+      },
+      "Karakeçili": {
+        "Karakeçili": {
+          "posta_kodu": 71500,
+          "mahalleler": [
+            "Fatih Sultan Mehmet Mah",
+            "Hoca Ahmet Yesevi Mah",
+            "Karşıyaka Mah",
+            "Kurtuluş Mah",
+            "Mareşal Fevzi Çakmak Mah",
+            "Yavuz Sultan Selim Mah",
+            "Yeşilevler Mah",
+            "Zafer Mah"
+          ]
+        },
+        "Merkezköyler": {
+          "posta_kodu": 71502,
+          "mahalleler": [
+            "Akkoşan Köyü",
+            "Sulubük Köyü"
+          ]
+        }
+      },
+      "Keskin": {
+        "Keskin": {
+          "posta_kodu": 71800,
+          "mahalleler": [
+            "Altuntaş Mah",
+            "Bozkurt Mah",
+            "Gündoğdu Mah",
+            "Maden Mah",
+            "Yeni Mah",
+            "Yenice Mah"
+          ]
+        },
+        "Merkezköyler": {
+          "posta_kodu": 71860,
+          "mahalleler": [
+            "Acıçiftliği Mah (Ceritobası Köyü)",
+            "Armutlu Köyü",
+            "Aşağı Olunlu Mah (Olunlu Köyü)",
+            "Aşağışıh Köyü",
+            "Bahçelievler Mah (Konur Köyü)",
+            "Barak Köyü",
+            "Barakobası Köyü",
+            "Beşler Köyü",
+            "Büyükceceli Köyü",
+            "Cabatobası Köyü",
+            "Cankurtaran Köyü",
+            "Cebrailli Köyü",
+            "Ceritkale Köyü",
+            "Ceritobası Köyü",
+            "Cinali Köyü",
+            "Çalış Köyü",
+            "Çamurabatmaz Köyü",
+            "Çipideresi Köyü",
+            "Dağsolaklısı Köyü",
+            "Danacıobası Köyü",
+            "Efendiköy Köyü",
+            "Elifoğlu Mah (Barakobası Köyü)",
+            "Eminefendi Köyü",
+            "Eroğlu Köyü",
+            "Esatmüminli Köyü",
+            "Eskialibudak Köyü",
+            "Fatih Mah (Köprüköy Köyü)",
+            "Gazibeyli Köyü",
+            "Göçbeyli Köyü",
+            "Göktaş Köyü",
+            "Gülkonak Köyü",
+            "Güneş Mah (Ceritmüminli Köyü)",
+            "Güzelyaka Mah (Konur Köyü)",
+            "Hacıaliobası Köyü",
+            "Hacıömersolaklısı Köyü",
+            "Hamit Mevki Mah (Cinali Köyü)",
+            "Haydardede Köyü",
+            "İnziloğlu Köyü",
+            "Kaçakköy Köyü",
+            "Karafakılı Köyü",
+            "Karşıyaka Mah (Konur Köyü)",
+            "Karşıyaka Mah (Köprüköy Köyü)",
+            "Kasımağa Köyü",
+            "Kavlak Köyü",
+            "Kavurgalı Köyü",
+            "Kayalaksolaklısı Köyü",
+            "Keskinkayalar Mah (Çipideresi Köyü)",
+            "Kevenli Köyü",
+            "Konurhacıobası Köyü",
+            "Köşker Mah (Büyükceceli Köyü)",
+            "Kurşunkaya Köyü",
+            "Kuzugüdenli Köyü",
+            "Kürek Mah (Çipideresi Köyü)",
+            "Müsellim Köyü",
+            "Olunlu Köyü",
+            "Organize Sanayi Bölgesi Mah (Cankurtaran Köyü)",
+            "Ortasöken Köyü",
+            "Ömerin Mah (Barakobası Köyü)",
+            "Polatyurdu Köyü",
+            "Seyfli Köyü",
+            "Takazlı Köyü",
+            "Tandoğan Mah (Ceritmüminli Köyü)",
+            "Taşlık Mah (Barakobası Köyü)",
+            "Topallar Mah (Çipideresi Köyü)",
+            "Turhanlı Köyü",
+            "Ufuk Mah (Ceritmüminli Köyü)",
+            "Üçevler Köyü",
+            "Üçkuyu Köyü",
+            "Yeni Mah (Köprüköy Köyü)",
+            "Yenialibudak Köyü",
+            "Yenimerden Mah (Ceritobası Köyü)",
+            "Yeniyapan Köyü",
+            "Yeşiltaş Mah (Konur Köyü)",
+            "Yoncalı Köyü"
+          ]
+        }
+      },
+      "Merkez": {
+        "Fabrikalar": {
+          "posta_kodu": 71100,
+          "mahalleler": [
+            "Aşağımahmutlar Mah",
+            "Çalılıöz Mah",
+            "Çullu Mah",
+            "Fabrikalar Mah",
+            "Yaylacık Mah",
+            "Yenimahalle Mah"
+          ]
+        },
+        "Merkezköyler": {
+          "posta_kodu": 71010,
+          "mahalleler": [
+            "Altınova Mah (Hacılar Köyü)",
+            "Bağlar Mah (Hasandede Köyü)",
+            "Bahçelievler Mah (Hasandede Köyü)",
+            "Dağevi Köyü",
+            "Gülevler Mah (Hasandede Köyü)",
+            "Gündoğdu Mah (Hasandede Köyü)",
+            "Hacıbey Mah (Hacılar Köyü)",
+            "Karacaali Köyü",
+            "Kazmaca Köyü",
+            "Kızıldere Köyü",
+            "Ömerli Mah (Ahılı Köyü)",
+            "Pazarcık Köyü",
+            "Pınarbaşı Mah (Ahılı Köyü)",
+            "Sağlık Mah (Hacılar Köyü)",
+            "Tekke Mah (Ahılı Köyü)",
+            "Ulaş Köyü",
+            "Yukarımahmutlar Köyü"
+          ]
+        },
+        "Sanayi": {
+          "posta_kodu": 71400,
+          "mahalleler": [
+            "Akşemsettin Mah",
+            "Bağlarbaşı Mah",
+            "Etiler Mah",
+            "Fatih Mah",
+            "Gündoğdu Mah",
+            "Kaletepe Mah",
+            "Kırıkköyü Mah",
+            "Osmangazi Mah",
+            "Sanayi Mah"
+          ]
+        },
+        "Tepebaşı": {
+          "posta_kodu": 71200,
+          "mahalleler": [
+            "Gürler Mah",
+            "Güzeltepe Mah",
+            "Hüseyin Kahya Mah",
+            "Kurtuluş Mah",
+            "Ovacık Mah",
+            "Tepebaşı Mah",
+            "Yenidoğan Mah"
+          ]
+        },
+        "Yuva": {
+          "posta_kodu": 71300,
+          "mahalleler": [
+            "Bahçelievler Mah",
+            "Karşıyaka Mah",
+            "Kızılırmak Mah",
+            "Kimeski Mah",
+            "Selim Özer Mah",
+            "Yuva Mah"
+          ]
+        }
+      },
+      "Sulakyurt": {
+        "Merkezköyler": {
+          "posta_kodu": 71902,
+          "mahalleler": [
+            "Ağaylı Köyü",
+            "Akkuyu Köyü",
+            "Alişeyhli Köyü",
+            "Ambardere Köyü",
+            "Ayvatlı Köyü",
+            "Barış Mah (Hamzalı Köyü)",
+            "Cumhuriyet Mah (Hamzalı Köyü)",
+            "Çayoba Köyü",
+            "Çevrimli Köyü",
+            "Danacı Köyü",
+            "Deredüzü Köyü",
+            "Esenpınar Köyü",
+            "Faraşlı Köyü",
+            "Fatih Mah (Güzelyurt Köyü)",
+            "Hürriyet Mah (Hamzalı Köyü)",
+            "İmamoğluçeşmesi Köyü",
+            "Kalekışla Köyü",
+            "Kıyıhalilinceli Köyü",
+            "Kıyıkavurgalı Köyü",
+            "Koruköy Köyü",
+            "Körkuyu Mah (Sofularçiftliği Köyü)",
+            "Kurtuluş Mah (Güzelyurt Köyü)",
+            "Mevlana Mah (Güzelyurt Köyü)",
+            "Ortaköy Köyü",
+            "Sarıkızlı Köyü",
+            "Sarımbey Köyü",
+            "Sofularçiftliği Köyü",
+            "Yağbasan Köyü",
+            "Yeniceli Köyü",
+            "Yeşilli Köyü",
+            "Yeşilyazı Köyü",
+            "Yunus Emre Mah (Güzelyurt Köyü)"
+          ]
+        },
+        "Sulakyurt": {
+          "posta_kodu": 71900,
+          "mahalleler": [
+            "Yayla Mah",
+            "Yeni Mah",
+            "Yeni Öz Mah",
+            "Yenihayat Mah",
+            "Yeşilyurt Mah",
+            "Yıldız Mah",
+            "Yükselen Mah"
+          ]
+        }
+      },
+      "Yahşihan": {
+        "Merkezköyler": {
+          "posta_kodu": 71452,
+          "mahalleler": [
+            "Aktaşlar Yaylası Mah (Mahmutlar Köyü)",
+            "Araplı Mevkii Mah (Mahmutlar Köyü)",
+            "Bahçelievler Mah (Kılıçlar Köyü)",
+            "Battalgazi Mah (Irmak Köyü)",
+            "Bayraktepe Mah",
+            "Bedesten Köyü",
+            "Boğaziçi Mah (Irmak Köyü)",
+            "Çiftlik Mah (Hisarköy Köyü)",
+            "Enver Paşa Mah (Kılıçlar Köyü)",
+            "Fatih Mah (Irmak Köyü)",
+            "Gedikardı Mah (Hisarköy Köyü)",
+            "Güllük Çiftliği Mah (Keçili Köyü)",
+            "Güzeren Mah (Mahmutlar Köyü)",
+            "Hacıbalı Köyü",
+            "Hacıbalıosb Mah (Hacıbalı Köyü)",
+            "Hacıbey Mah",
+            "Hisarköy Köyü",
+            "Kalecik Karadağ Mevkii Mah (Mahmutlar Köyü)",
+            "Keçili Köyü",
+            "Köyönü Mevkii Mah (Hacıbalı Köyü)",
+            "Kütüklü Mah (Mahmutlar Köyü)",
+            "Mahmutlar Köyü",
+            "Seyitali Mah (Kılıçlar Köyü)",
+            "Seyrantepe Mah",
+            "Seyrantepe Mah (Irmak Köyü)",
+            "Şehit Türker Mah (Kılıçlar Köyü)",
+            "Üzümlü Mevkii Mah (Bedesten Köyü)",
+            "Vakağın Tepesi Mah (Keçili Köyü)",
+            "Yazı Mevkii Mah (Hacıbalı Köyü)",
+            "Yeşilöz Mah (Irmak Köyü)"
+          ]
+        },
+        "Yahşihan": {
+          "posta_kodu": 71450,
+          "mahalleler": [
+            "Alaaddin Mah",
+            "Doğanlık Mah",
+            "Emirler Mah",
+            "Erenler Mah",
+            "Kadıoğlu Mah",
+            "Yenişehir Mah",
+            "Yeşil Vadi Mah"
+          ]
+        }
+      }
+    }
+  }
+}
