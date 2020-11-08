@@ -1,6 +1,6 @@
 # Bu araç @keyiflerolsun tarafından | @KekikAkademi için yazılmıştır.
 
-from setuptools import setup, find_packages
+from setuptools import setup
 from io import open
 
 from TRSehirler import YAZAR, YAZAR_POSTA, PAKET, VERSIYON, REPO, ACIKLAMA, ANAHTAR_KLM, GEREKSINIM
@@ -9,7 +9,7 @@ setup(
     author       = YAZAR,
     author_email = YAZAR_POSTA,
 
-    packages     = [PAKET], 
+    packages     = [PAKET],
 
     name         = PAKET,
     version      = VERSIYON,

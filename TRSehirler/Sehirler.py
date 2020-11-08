@@ -2,6 +2,7 @@
 
 from tinydb import TinyDB, Query
 from tabulate import tabulate
+from attrdict import AttrDict
 import json, os
 
 BURDAYIZ = os.path.dirname(os.path.abspath(__file__))
@@ -21,6 +22,7 @@ class Sehir(object):
         .anahtarlar(veri:dict) -> list:
     """
     def __init__(self):
+        "TinyDB Modelini Sorguya Hazırladık."
         self.db     = TinyDB(f'{BURDAYIZ}/Veriler/sehirler.json')
         self.sorgu  = Query()
 
@@ -35,7 +37,8 @@ class Sehir(object):
             dict: {'plaka': 17, 'il': 'Çanakkale', 'telefon': 286, 'buyuksehir_den_beri': None, 'bolge': 'Marmara', 'ilceler': ['Ayvacık', 'Bayramiç', 'Biga', 'Bozcaada', 'Çan', 'Eceabat', 'Ezine', 'Gelibolu', 'Gökçeada', 'Lapseki', 'Merkez', 'Yenice']}
         """
         try:
-            return self.db.search(self.sorgu.il == il.capitalize())[0]
+            sorgu = self.db.search(self.sorgu.il == il.capitalize())[0]
+            return json.loads(json.dumps(sorgu, ensure_ascii=False))
         except IndexError:
             return {"Hata": f"'{il}' | diye bir il bulunamadı.."}
 
@@ -50,7 +53,8 @@ class Sehir(object):
             dict: {'plaka': 17, 'il': 'Çanakkale', 'telefon': 286, 'buyuksehir_den_beri': None, 'bolge': 'Marmara', 'ilceler': ['Ayvacık', 'Bayramiç', 'Biga', 'Bozcaada', 'Çan', 'Eceabat', 'Ezine', 'Gelibolu', 'Gökçeada', 'Lapseki', 'Merkez', 'Yenice']}
         """
         try:
-            return self.db.search(self.sorgu.plaka == plaka)[0]
+            sorgu = self.db.search(self.sorgu.plaka == plaka)[0]
+            return json.loads(json.dumps(sorgu, ensure_ascii=False))
         except IndexError:
             return {"Hata": f"'{plaka}' | diye bir plaka bulunamadı.."}
 
@@ -65,7 +69,8 @@ class Sehir(object):
             dict: {'plaka': 17, 'il': 'Çanakkale', 'telefon': 286, 'buyuksehir_den_beri': None, 'bolge': 'Marmara', 'ilceler': ['Ayvacık', 'Bayramiç', 'Biga', 'Bozcaada', 'Çan', 'Eceabat', 'Ezine', 'Gelibolu', 'Gökçeada', 'Lapseki', 'Merkez', 'Yenice']}
         """
         try:
-            return self.db.search(self.sorgu.telefon == telefon)[0]
+            sorgu = self.db.search(self.sorgu.telefon == telefon)[0]
+            return json.loads(json.dumps(sorgu, ensure_ascii=False))
         except IndexError:
             try:
                 return self.db.search(self.sorgu.telefon.any(str(telefon)))[0]
@@ -83,7 +88,8 @@ class Sehir(object):
             dict: {'plaka': 17, 'il': 'Çanakkale', 'telefon': 286, 'buyuksehir_den_beri': None, 'bolge': 'Marmara', 'ilceler': ['Ayvacık', 'Bayramiç', 'Biga', 'Bozcaada', 'Çan', 'Eceabat', 'Ezine', 'Gelibolu', 'Gökçeada', 'Lapseki', 'Merkez', 'Yenice']}
         """
         try:
-            return self.db.search(self.sorgu.ilceler.any(ilce.capitalize()))[0]
+            sorgu = self.db.search(self.sorgu.ilceler.any(ilce.capitalize()))[0]
+            return json.loads(json.dumps(sorgu, ensure_ascii=False))
         except IndexError:
             return {"Hata": f"'{ilce}' | diye bir ilçe bulunamadı.."}
 
@@ -167,3 +173,16 @@ class Sehir(object):
             list: ['plaka', 'il', 'telefon', 'buyuksehir_den_beri', 'bolge', 'ilceler']
         """
         return [anahtar for anahtar in veri.keys()]
+
+    @staticmethod
+    def nesne(veri) -> AttrDict:
+        """
+        json verisini python nesnesine dönüştürür
+
+        Argüman:
+            veri : sehir.plaka(17)
+
+        Dönüş:
+            AttrDict: AttrDict({'plaka': 17, 'il': 'Çanakkale', 'telefon': 286, 'buyuksehir_den_beri': None, 'bolge': 'Marmara', 'ilceler': ['Ayvacık', 'Bayramiç', 'Biga', 'Bozcaada', 'Çan', 'Eceabat', 'Ezine', 'Gelibolu', 'Gökçeada', 'Lapseki', 'Merkez', 'Yenice']})
+        """
+        return AttrDict(veri)

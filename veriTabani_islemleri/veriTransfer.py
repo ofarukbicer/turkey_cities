@@ -19,11 +19,11 @@ def yaml2json():
         "region"       : "bolge",
         "districts"    : "ilceler"
     }
-    with open(f'DIZVeri/cities.yaml', 'r+') as okunan_sehirler:
+    with open('DIZVeri/cities.yaml', 'r+') as okunan_sehirler:
         duzenlenen_veri = degistir(okunan_sehirler.read(), sehirler_degistir)
         json_veri       = yaml.load(duzenlenen_veri, Loader=yaml.FullLoader)
 
-    with open(f'GeciciVeri/sehirler.json', 'w+') as yazilacak_sehirler:
+    with open('GeciciVeri/sehirler.json', 'w+') as yazilacak_sehirler:
         yazilacak_sehirler.write(json.dumps(json_veri, sort_keys=False, indent=2, ensure_ascii=False))
 
 

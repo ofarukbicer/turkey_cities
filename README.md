@@ -28,6 +28,7 @@ pip install -U TRSehirler
 
 - [x] *Proje itinayla* *~* **[sarslanoglu/turkish_cities](https://github.com/sarslanoglu/turkish_cities)***'den `dızz 🐍`'lanmıştır..*
 - [x] `v0.1.0` *ile* **[Sehir](https://github.com/keyiflerolsun/TRSehirler#-sehir)** *Objesi Eklenmiştir..*
+- [x] `v0.1.1` *ile* **nesne** *statik metodu oluşturuldu..*
 
 ### 🌆 Sehir
 
@@ -38,21 +39,29 @@ sehir = Sehir()
 
 print(sehir.il('Çanakkale'))
 '''
+İl ile il Sorgusu
+
 {'plaka': 17, 'il': 'Çanakkale', 'telefon': 286, 'buyuksehir_den_beri': None, 'bolge': 'Marmara', 'ilceler': ['Ayvacık', 'Bayramiç', 'Biga', 'Bozcaada', 'Çan', 'Eceabat', 'Ezine', 'Gelibolu', 'Gökçeada', 'Lapseki', 'Merkez', 'Yenice']}
 '''
 
 print(sehir.plaka(17))
 '''
+Plaka ile il Sorgusu
+
 {'plaka': 17, 'il': 'Çanakkale', 'telefon': 286, 'buyuksehir_den_beri': None, 'bolge': 'Marmara', 'ilceler': ['Ayvacık', 'Bayramiç', 'Biga', 'Bozcaada', 'Çan', 'Eceabat', 'Ezine', 'Gelibolu', 'Gökçeada', 'Lapseki', 'Merkez', 'Yenice']}
 '''
 
 print(sehir.telefon(286))
 '''
+Telefon Kodu ile il Sorgusu
+
 {'plaka': 17, 'il': 'Çanakkale', 'telefon': 286, 'buyuksehir_den_beri': None, 'bolge': 'Marmara', 'ilceler': ['Ayvacık', 'Bayramiç', 'Biga', 'Bozcaada', 'Çan', 'Eceabat', 'Ezine', 'Gelibolu', 'Gökçeada', 'Lapseki', 'Merkez', 'Yenice']}
 '''
 
 print(sehir.ilce('Lapseki'))
 '''
+İlçe ile il Sorgusu
+
 {'plaka': 17, 'il': 'Çanakkale', 'telefon': 286, 'buyuksehir_den_beri': None, 'bolge': 'Marmara', 'ilceler': ['Ayvacık', 'Bayramiç', 'Biga', 'Bozcaada', 'Çan', 'Eceabat', 'Ezine', 'Gelibolu', 'Gökçeada', 'Lapseki', 'Merkez', 'Yenice']}
 '''
 
@@ -60,6 +69,8 @@ print(sehir.ilce('Lapseki'))
 
 print(sehir.gorsel(sehir.plaka(17)))
 '''
+json verisini insanın okuyabileceği formatta döndürür
+
 {
   "plaka": 17,
   "il": "Çanakkale",
@@ -85,6 +96,8 @@ print(sehir.gorsel(sehir.plaka(17)))
 
 print(sehir.tablo(sehir.telefon(286)))
 '''
+Tabulate verisi döndürür
+
 +-----------+
 | ilceler   |
 |-----------|
@@ -105,7 +118,16 @@ print(sehir.tablo(sehir.telefon(286)))
 
 print(sehir.anahtarlar(sehir.ilce('Lapseki')))
 '''
+Var olan anahtarları döndürür
+
 ['plaka', 'il', 'telefon', 'buyuksehir_den_beri', 'bolge', 'ilceler']
+'''
+
+print(sehir.nesne(sehir.ilce('Lapseki')))
+'''
+json verisini python nesnesine dönüştürür
+
+AttrDict({'plaka': 17, 'il': 'Çanakkale', 'telefon': 286, 'buyuksehir_den_beri': None, 'bolge': 'Marmara', 'ilceler': ['Ayvacık', 'Bayramiç', 'Biga', 'Bozcaada', 'Çan', 'Eceabat', 'Ezine', 'Gelibolu', 'Gökçeada', 'Lapseki', 'Merkez', 'Yenice']})
 '''
 ```
 
