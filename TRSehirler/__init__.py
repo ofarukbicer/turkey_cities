@@ -9,12 +9,9 @@ VERSIYON    = '0.1.1'
 
 REPO        = 'https://github.com/keyiflerolsun/TRSehirler'
 ACIKLAMA    = 'Türkiye Cumhuriyeti Devleti Şehirlerini; İl, Plaka, Telefon veya İlçe bilgisinden bulun..'
-ANAHTAR_KLM = ['TRSehirler', 'KekikAkademi', 'keyiflerolsun']
+ANAHTAR_KLM = [PAKET, 'KekikAkademi', 'keyiflerolsun']
 
-GEREKSINIM  = [
-    "tinydb==4.2.0",
-    "tabulate==0.8.7",
-    "attrdict==2.0.1"
-]
+with open(f'{PAKET}/requirements.txt') as dosya:
+    GEREKSINIM = dosya.read().splitlines()
 
 from TRSehirler.Sehirler import Sehir
