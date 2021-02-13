@@ -1,0 +1,447 @@
+{
+  "_default": {
+    "1": {
+      "Babaeski": {
+        "Alpullu": {
+          "posta_kodu": 39570,
+          "mahalleler": [
+            "Gülbahçe Mah (Alpullu Köyü)",
+            "Şeker Mah (Alpullu Köyü)",
+            "Yeni Mah (Alpullu Köyü)"
+          ]
+        },
+        "Babaeski": {
+          "posta_kodu": 39200,
+          "mahalleler": [
+            "Atatürk Mah",
+            "Cumhuriyet Mah",
+            "Dindoğru Mah",
+            "Fevzi Çakmak Mah",
+            "Gazikemal Mah",
+            "Gaziosmanpaşa Mah",
+            "Hacıhasan Mah",
+            "Hamidiye Mah",
+            "Kurtuluş Mah"
+          ]
+        },
+        "Merkezköyler": {
+          "posta_kodu": 39202,
+          "mahalleler": [
+            "Ağayeri Köyü",
+            "Atatürk Mah (Sinanlı Köyü)",
+            "Birlik Mah (Karahalil Köyü)",
+            "Cumhuriyet Mah (Sinanlı Köyü)",
+            "Çavuşköy Köyü",
+            "Çengerli Köyü",
+            "Çiğdemli Köyü",
+            "Demirkapı Mah (Karahalil Köyü)",
+            "Düğüncülü Köyü",
+            "Erikleryurdu Köyü",
+            "Ertuğrulköy Köyü",
+            "Fevzi Çakmak Mah (Karahalil Köyü)",
+            "Halilpaşa Mah (Karahalil Köyü)",
+            "Hatip Mah (Büyükmandıra Köyü)",
+            "Hazinedar Köyü",
+            "Hürriyet Mah (Büyükmandıra Köyü)",
+            "Kadıköy Köyü",
+            "Karabayır Köyü",
+            "Karacaoğlan Köyü",
+            "Karamesutlu Köyü",
+            "Katranca Köyü",
+            "Kemal Paşa Mah (Karahalil Köyü)",
+            "Kuleli Köyü",
+            "Kumrular Köyü",
+            "Kuzuçardağı Köyü",
+            "Minnetler Köyü",
+            "Mutlu Köyü",
+            "Müsellim Köyü",
+            "Nacak Köyü",
+            "Nadırlı Köyü",
+            "Oruçlu Köyü",
+            "Osmaniye Köyü",
+            "Pancarköy Köyü",
+            "Paşa Mah (Büyükmandıra Köyü)",
+            "Sofuhalil Köyü",
+            "Şamdani Mah (Büyükmandıra Köyü)",
+            "Taşağıl Bucak Merkezi Köyü",
+            "Taşköprü Köyü",
+            "Terzili Köyü",
+            "Yeniköy Köyü",
+            "Yenimahalle Köyü"
+          ]
+        }
+      },
+      "Demirköy": {
+        "Demirköy": {
+          "posta_kodu": 39500,
+          "mahalleler": [
+            "Hamdibey Mah",
+            "Orhaniye Mah",
+            "Yeni Mah"
+          ]
+        },
+        "İğneada": {
+          "posta_kodu": 39650,
+          "mahalleler": [
+            "Avcılar Köyü",
+            "Beğendik Köyü",
+            "Deniz Mah (İğneada Köyü)",
+            "Fener Sitesi Mah (Limanköy Köyü)",
+            "Koru Sitesi Mah (Limanköy Köyü)",
+            "Limanköy Köyü",
+            "Palivor Çiftliği Mah (Avcılar Köyü)",
+            "Sislioba Köyü",
+            "Yeni Mah (İğneada Köyü)"
+          ]
+        },
+        "Merkezköyler": {
+          "posta_kodu": 39502,
+          "mahalleler": [
+            "Armutveren Köyü",
+            "Balaban Köyü",
+            "Boztaş Köyü",
+            "Gökyaka Köyü",
+            "Hamdibey Köyü",
+            "İncesırt Köyü",
+            "Karacadağ Köyü",
+            "Karanlık Mah (İncesırt Köyü)",
+            "Sarpdere Köyü",
+            "Sivriler Köyü",
+            "Yeşilce Köyü",
+            "Yiğitbaşı Köyü"
+          ]
+        }
+      },
+      "Kofçaz": {
+        "Kofçaz": {
+          "posta_kodu": 39700,
+          "mahalleler": [
+            "Yeni Mah",
+            "Yeşillik Mah"
+          ]
+        },
+        "Merkezköyler": {
+          "posta_kodu": 39702,
+          "mahalleler": [
+            "Ahlatlı Köyü",
+            "Ahmetler Köyü",
+            "Aşağıkanara Köyü",
+            "Beyci Köyü",
+            "Devletliağaç Köyü",
+            "Elmacık Köyü",
+            "Karaabalar Köyü",
+            "Kocatarla Köyü",
+            "Kocayazı Köyü",
+            "Kula Köyü",
+            "Malkoçlar Köyü",
+            "Tastepe Köyü",
+            "Tatlıpınar Köyü",
+            "Terzidere Köyü",
+            "Topçular Köyü",
+            "Yukarıkanara Köyü"
+          ]
+        }
+      },
+      "Lüleburgaz": {
+        "Ahmetbey": {
+          "posta_kodu": 39770,
+          "mahalleler": [
+            "Dere Mah (Ahmetbey Köyü)",
+            "Gündoğu Mah (Ahmetbey Köyü)",
+            "Karşıyaka Mah (Ahmetbey Köyü)"
+          ]
+        },
+        "Büyükkarıştıran": {
+          "posta_kodu": 39780,
+          "mahalleler": [
+            "Fatih Mah (Büyükkarıştıran Köyü)",
+            "Yeni Mah (Büyükkarıştıran Köyü)",
+            "Yıldırım Mah (Büyükkarıştıran Köyü)"
+          ]
+        },
+        "Evrensekiz": {
+          "posta_kodu": 39790,
+          "mahalleler": [
+            "Fatih Mah (Evrensekiz Köyü)",
+            "Gündoğu Mah (Evrensekiz Köyü)",
+            "Kırcaali Mah (Evrensekiz Köyü)"
+          ]
+        },
+        "Lüleburgaz": {
+          "posta_kodu": 39750,
+          "mahalleler": [
+            "8 Kasım Mah",
+            "Atatürk Mah",
+            "Barış Mah",
+            "Cumhuriyet Mah",
+            "Dere Mah",
+            "Durak Mah",
+            "Gençlik Mah",
+            "Gündoğu Mah",
+            "Güneş Mah",
+            "Hürriyet Mah",
+            "İnönü Mah",
+            "İstiklal Mah",
+            "Kocasinan Mah",
+            "Kurtuluş Mah",
+            "Özerler Mah",
+            "Sevgi Mah",
+            "Siteler Mah",
+            "Yeni Mah",
+            "Yıldırım Mah",
+            "Yıldız Mah",
+            "Yılmaz Mah",
+            "Zafer Mah"
+          ]
+        },
+        "Merkezköyler": {
+          "posta_kodu": 39752,
+          "mahalleler": [
+            "Akçaköy Köyü",
+            "Alacaoğlu Köyü",
+            "Ayvalı Köyü",
+            "Celaliye Köyü",
+            "Ceylanköy Köyü",
+            "Cumhuriyet Mah (Kırıkköy Köyü)",
+            "Çengelli Köyü",
+            "Çeşmekolu Köyü",
+            "Çiftlikköy Köyü",
+            "Davutlu Köyü",
+            "Düğüncübaşı Köyü",
+            "Emirali Köyü",
+            "Ertuğrul Köyü",
+            "Eskibedir Köyü",
+            "Eskitaşlı Köyü",
+            "Hamitabat Köyü",
+            "Hamzabey Köyü",
+            "Hürriyet Mah (Kırıkköy Köyü)",
+            "Hürriyet Mah (Sakızköy Köyü)",
+            "Karaağaç Köyü",
+            "Karamusul Köyü",
+            "Kayabeyli Köyü",
+            "Köydışı Mah (Hamitabat Köyü)",
+            "Küçükkarıştıran Mah (Büyükkarıştıran Köyü)",
+            "Merkez Mah (Sakızköy Köyü)",
+            "Müsellim Köyü",
+            "Oklalı Köyü",
+            "Ovacık Köyü",
+            "Sarıcaali Köyü",
+            "Sarımsaklı Mah",
+            "Seyitler Köyü",
+            "Tatarköy Köyü",
+            "Turgutbey Köyü",
+            "Umurca Köyü",
+            "Yenibedir Köyü",
+            "Yenitaşlı Köyü"
+          ]
+        }
+      },
+      "Merkez": {
+        "Dereköy": {
+          "posta_kodu": 39002,
+          "mahalleler": [
+            "Armağan Köyü",
+            "Çağalayık Köyü",
+            "Dereköy Bucak Merkezi Köyü",
+            "Düzorman Köyü",
+            "Geçitağzı Köyü",
+            "Kapaklı Köyü",
+            "Karadere Köyü",
+            "Koruköy Köyü",
+            "Şükrüpaşa Köyü"
+          ]
+        },
+        "İnece": {
+          "posta_kodu": 39201,
+          "mahalleler": [
+            "Arizbaba Köyü",
+            "Dokuzhüyük Köyü",
+            "Dolhan Köyü",
+            "Kazımpaşa Mah (İnece Köyü)",
+            "Kemalpaşa Mah (İnece Köyü)",
+            "Kocahıdır Köyü",
+            "Koyunbaba Köyü",
+            "Paşayeri Köyü",
+            "Ulukonak Mah (İnece Köyü)",
+            "Ürünlü Köyü",
+            "Yeni Mah (İnece Köyü)"
+          ]
+        },
+        "Kırklareli": {
+          "posta_kodu": 39010,
+          "mahalleler": [
+            "Akalar Mah",
+            "Atatürk Mah",
+            "Bademlik Mah",
+            "Cumhuriyet Mah",
+            "Demirtaş Mah",
+            "Doğu Mah",
+            "İstasyon Mah",
+            "Karacaibrahim Mah",
+            "Karahıdır Mah",
+            "Karakaş Mah",
+            "Kocahıdır Mah",
+            "Pınar Mah",
+            "Yayla Mah"
+          ]
+        },
+        "Merkezköyler": {
+          "posta_kodu": 39100,
+          "mahalleler": [
+            "Ahmetçe Köyü",
+            "Asılbeyli Köyü",
+            "Bayramdere Köyü",
+            "Celaliye Mah (Kavaklı Köyü)",
+            "Çarşı Mah (Kavaklı Köyü)",
+            "Çayırlı Köyü",
+            "Çeşmeköy Köyü",
+            "Değirmencik Köyü",
+            "Demircihalil Köyü",
+            "Deveçatağı Köyü",
+            "Erikler Köyü",
+            "Eriklice Köyü",
+            "Kadıköy Köyü",
+            "Karahamza Köyü",
+            "Karakoç Köyü",
+            "Karıncak Köyü",
+            "Kavakdere Köyü",
+            "Kayalı Köyü",
+            "Kızılcıkdere Köyü",
+            "Kızılcıkdereosb Mah (Kızılcıkdere Köyü)",
+            "Kuzulu Köyü",
+            "Turist Mah (Kavaklı Köyü)",
+            "Yeni Okullar Mah (Kavaklı Köyü)",
+            "Yoğuntaş Bucak Merkezi Köyü",
+            "Yürükbayırı Köyü"
+          ]
+        },
+        "Üsküp": {
+          "posta_kodu": 39572,
+          "mahalleler": [
+            "Beypınar Köyü",
+            "Cevat Paşa Mah (Üsküp Köyü)",
+            "Çukurpınar Köyü",
+            "Gündoğdu Mah (Üsküp Köyü)",
+            "Kemal Paşa Mah (Üsküp Köyü)",
+            "Mehmet Çavuş Mah (Üsküp Köyü)",
+            "Üsküpdere Köyü",
+            "Yündalan Köyü"
+          ]
+        }
+      },
+      "Pehlivanköy": {
+        "Merkezköyler": {
+          "posta_kodu": 39640,
+          "mahalleler": [
+            "Akarca Köyü",
+            "Doğanca Köyü",
+            "Hıdırca Köyü",
+            "İmampazarı Köyü",
+            "Kumköy Köyü",
+            "Kuştepe Köyü",
+            "Yeşilova Köyü",
+            "Yeşilpınar Köyü"
+          ]
+        },
+        "Pehlivanköy": {
+          "posta_kodu": 39600,
+          "mahalleler": [
+            "Ergene Mah",
+            "Kazımdirik Mah",
+            "Kurtuluş Mah"
+          ]
+        }
+      },
+      "Pınarhisar": {
+        "Merkezköyler": {
+          "posta_kodu": 39302,
+          "mahalleler": [
+            "Akarlar Mah (Kaynarca Köyü)",
+            "Akören Köyü",
+            "Ataköy Köyü",
+            "Cevizköy Köyü",
+            "Cumhuriyet Mah (Yenice Köyü)",
+            "Çayırdere Köyü",
+            "Erenler Köyü",
+            "Evciler Köyü",
+            "Hacıfakılı Köyü",
+            "Hürriyet Mah (Yenice Köyü)",
+            "Işıklar Mah (Kaynarca Köyü)",
+            "İslambeyli Köyü",
+            "Kurudere Köyü",
+            "Osmancık Köyü",
+            "Poyralı Köyü",
+            "Sütlüce Köyü",
+            "Tozaklı Köyü",
+            "Yenicamii Mah (Kaynarca Köyü)"
+          ]
+        },
+        "Pınarhisar": {
+          "posta_kodu": 39300,
+          "mahalleler": [
+            "Beylik Mah",
+            "Camiikebir Mah",
+            "Dere Mah",
+            "Orta Mah"
+          ]
+        }
+      },
+      "Vize": {
+        "Merkezköyler": {
+          "posta_kodu": 39402,
+          "mahalleler": [
+            "Akıncılar Köyü",
+            "Akpınar Köyü",
+            "Aksicim Köyü",
+            "Balkaya Köyü",
+            "Cumhuriyet Mah (Çakıllı Köyü)",
+            "Cumhuriyet Mah (Kıyıköy Köyü)",
+            "Çavuşköy Köyü",
+            "Çüvenli Köyü",
+            "Develi Köyü",
+            "Doğanca Köyü",
+            "Düzova Köyü",
+            "Evrenli Köyü",
+            "Güven Mah (Kıyıköy Köyü)",
+            "Hamidiye Köyü",
+            "Hasbuğa Köyü",
+            "Hürriyet Mah (Çakıllı Köyü)",
+            "Kale Mah (Kıyıköy Köyü)",
+            "Kışlacık Köyü",
+            "Kızılağaç Köyü",
+            "Kömürköy Köyü",
+            "Küçükyayla Köyü",
+            "Müsellim Köyü",
+            "Okçular Köyü",
+            "Pazarlı Köyü",
+            "Topçuköy Köyü",
+            "Zafer Mah (Çakıllı Köyü)"
+          ]
+        },
+        "Sergen": {
+          "posta_kodu": 39652,
+          "mahalleler": [
+            "Evrencik Köyü",
+            "Evrencik Mah (Evrencik Köyü)",
+            "Fevzi Çakmak Mah (Sergen Köyü)",
+            "Sağlık Mah (Sergen Köyü)",
+            "Sofular Köyü",
+            "Soğucak Köyü",
+            "Yeni Cami Mah (Sergen Köyü)"
+          ]
+        },
+        "Vize": {
+          "posta_kodu": 39400,
+          "mahalleler": [
+            "Devlet Mah",
+            "Evren Mah",
+            "Gazi Mah",
+            "Kale Mah",
+            "Mehmet Akif Mah",
+            "Namık Kemal Mah"
+          ]
+        }
+      }
+    }
+  }
+}

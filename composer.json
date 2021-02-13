@@ -1,0 +1,21 @@
+{
+    "name": "omerfarukbicer0446/turkey_cities",
+    "description": "Türkiye Cumhuriyeti Devleti Şehirlerini; İl, Plaka, Telefon veya İlçe bilgisinden bulun..",
+    "type": "library",
+    "license": "MIT",
+    "homepage": "http://github.com/omerfarukbicer0446/turkey_cities",
+    "keywords": ["tr şehirler","il ilçe plaka kodu","telefon kodları"],
+    "version": "1.0",
+    "authors": [
+        {
+            "name": "omerfarukbicer0446",
+            "email": "omerfarukbicer0446@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "TurkeyCities\\": "src/"
+        }
+    },
+    "require": {}
+}

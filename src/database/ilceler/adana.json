@@ -1,0 +1,1193 @@
+{
+  "_default": {
+    "1": {
+      "Aladağ": {
+        "Aladağ": {
+          "posta_kodu": 1720,
+          "mahalleler": [
+            "Akpınar Mah",
+            "Başpınar Mah",
+            "Mansurlu Mah",
+            "Sinanpaşa Mah"
+          ]
+        },
+        "Madenli": {
+          "posta_kodu": 1722,
+          "mahalleler": [
+            "Akören Mah",
+            "Boztahta Mah",
+            "Büyüksofulu Mah",
+            "Ceritler Mah",
+            "Dailer Mah",
+            "Darılık Mah",
+            "Dölekli Mah",
+            "Ebrişim Mah",
+            "Eğner Mah",
+            "Gerdibi Mah",
+            "Gireğiyeniköy Mah",
+            "Gökçeköy Mah",
+            "Kabasakal Mah",
+            "Karahan Mah",
+            "Kıcak Mah",
+            "Kışlak Mah",
+            "Kızıldam Mah",
+            "Kökez Mah",
+            "Köprücük Mah",
+            "Küp Mah",
+            "Madenli Mah",
+            "Mazılık Mah",
+            "Posyağbasan Mah",
+            "Topallı Mah",
+            "Uzunkuyu Mah",
+            "Yetimli Mah",
+            "Yüksekören Mah"
+          ]
+        }
+      },
+      "Ceyhan": {
+        "Büyükmangıt": {
+          "posta_kodu": 1922,
+          "mahalleler": [
+            "Adapınar Mah",
+            "Adatepe Mah",
+            "Ağaçlı Mah",
+            "Ağaçpınar Mah",
+            "Akdam Mah",
+            "Altıgözbekirli Mah",
+            "Altıkara Mah",
+            "Aydınlar Mah",
+            "Azizli Mah",
+            "Başören Mah",
+            "Birkent Mah",
+            "Burhanlı Mah",
+            "Büyükburhaniye Mah",
+            "Büyükmangıt Mah",
+            "Camuzağılı Mah",
+            "Ceyhanbekirli Mah",
+            "Çakaldere Mah",
+            "Çataklı Mah",
+            "Çatalhüyük Mah",
+            "Çevretepe Mah",
+            "Çiçekli Mah",
+            "Çiftlikler Mah",
+            "Çokçapınar Mah",
+            "Dağıstan Mah",
+            "Değirmendere Mah",
+            "Değirmenli Mah",
+            "Dikilitaş Mah",
+            "Dokuztekne Mah",
+            "Doruk Mah",
+            "Durhasandede Mah",
+            "Dutlupınar Mah",
+            "Ekinyazı Mah",
+            "Elmagölü Mah",
+            "Erenler Mah",
+            "Gümürdülü Mah",
+            "Gündoğan Mah",
+            "Günlüce Mah",
+            "Hamdilli Mah",
+            "Hamidiye Mah",
+            "Hamitbey Mah",
+            "Hamitbeybucağı Mah",
+            "Irmaklı Mah",
+            "Isırganlı Mah",
+            "İmran Mah",
+            "İnceyer Mah",
+            "İsalı Mah",
+            "Karakayalı Mah",
+            "Kılıçkaya Mah",
+            "Kıvrıklı Mah",
+            "Kızıldere Mah",
+            "Köprülü Mah",
+            "Körkuyu Mah",
+            "Kösreli Mah",
+            "Kurtkulağı Mah",
+            "Kurtpınar Mah",
+            "Kuzucak Mah",
+            "Küçükburhaniye Mah",
+            "Küçükmangıt Mah",
+            "Mercimek Mah",
+            "Mercin Mah",
+            "Narlık Mah",
+            "Nazımbey Yeniköy Mah",
+            "Sağırlar Mah",
+            "Sağkaya Mah",
+            "Sarıbahçe Mah",
+            "Sarımazı Mah",
+            "Sarımazı Sb Mah",
+            "Selimiye Mah",
+            "Sirkeli Mah",
+            "Soğukpınar Mah",
+            "Soysallı Mah",
+            "Tatarlı Mah",
+            "Tatlıkuyu Mah",
+            "Toktamış Mah",
+            "Tumlu Mah",
+            "Üçdutyeşilova Mah",
+            "Veysiye Mah",
+            "Yalak Mah",
+            "Yellibel Mah",
+            "Yeşilbahçe Mah",
+            "Yeşildam Mah",
+            "Yılankale Mah"
+          ]
+        },
+        "Ceyhan": {
+          "posta_kodu": 1920,
+          "mahalleler": [
+            "Altıocak Mah",
+            "Atatürk Mah",
+            "Aydemiroğlu Mah",
+            "Belediye Evleri Mah",
+            "Bota Mah",
+            "Burhaniye Mah",
+            "Büyükkırım Mah",
+            "Civantayak Mah",
+            "Cumhuriyet Mah",
+            "Emek Mah",
+            "Esentepe Mah",
+            "Fatih Sultan Mehmet Mah",
+            "Gazi Osman Paşa Mah",
+            "Hürriyet Mah",
+            "İnönü Mah",
+            "İstiklal Mah",
+            "Kelemeti Mah",
+            "Konakoğlu Mah",
+            "Koruklu Mah",
+            "Küçükkırım Mah",
+            "Mithat Paşa Mah",
+            "Modernevler Mah",
+            "Muradiye Mah",
+            "Namık Kemal Mah",
+            "Sarısakal Mah",
+            "Şahin Özbilen Mah",
+            "Şehit Hacı İbrahim Mah",
+            "Ulus Mah",
+            "Yarsuat Mah",
+            "Zübeyde Hanım Mah"
+          ]
+        },
+        "Mustafabeyli": {
+          "posta_kodu": 1924,
+          "mahalleler": [
+            "Mustafabeyli Mah"
+          ]
+        }
+      },
+      "Çukurova": {
+        "Huzurevleri": {
+          "posta_kodu": 1360,
+          "mahalleler": [
+            "Belediye Evleri Mah",
+            "Huzurevleri Mah",
+            "Yüzüncüyıl Mah"
+          ]
+        },
+        "Mahfesığmaz": {
+          "posta_kodu": 1170,
+          "mahalleler": [
+            "Beyazevler Mah",
+            "Bozcalar Mah",
+            "Dörtler Mah",
+            "Esentepe Mah",
+            "Fadıl Mah",
+            "Gökkuyu Mah",
+            "Güzelyalı Mah",
+            "Kabasakal Mah",
+            "Karahan Mah",
+            "Karslılar Mah",
+            "Kaşoba Mah",
+            "Kocatepe Mah",
+            "Kurttepe Mah",
+            "Küçükçınar Mah",
+            "Mahfesığmaz Mah",
+            "Memişli Mah",
+            "Örcün Mah",
+            "Pirili Mah",
+            "Söğütlü Mah",
+            "Şambayadı Mah",
+            "Toros Mah",
+            "Yeni Mah",
+            "Yurt Mah"
+          ]
+        },
+        "Salbaş": {
+          "posta_kodu": 1780,
+          "mahalleler": [
+            "Salbaş Esentepe Mah"
+          ]
+        }
+      },
+      "Feke": {
+        "Akkaya": {
+          "posta_kodu": 1662,
+          "mahalleler": [
+            "Akkaya Mah",
+            "Akoluk Mah",
+            "Bağdatlı Mah",
+            "Bahçecik Mah",
+            "Çandırlar Mah",
+            "Çondu Mah",
+            "Çürükler Mah",
+            "Değirmenciuşağı Mah",
+            "Gaffaruşağı Mah",
+            "Gedikli Mah",
+            "Göbelli Mah",
+            "Gürümze Mah",
+            "Güzpınarı Mah",
+            "Hıdıruşağı Mah",
+            "İncirci Mah",
+            "Kaleyüzü Mah",
+            "Kaşaltı Mah",
+            "Kayadibi Mah",
+            "Kırıkuşağı Mah",
+            "Kısacıklı Mah",
+            "Kızılyer Mah",
+            "Koçyazı Mah",
+            "Konakkuran Mah",
+            "Kovukçınar Mah",
+            "Mansurlu Mah",
+            "Musalar Mah",
+            "Olucak Mah",
+            "Ormancık Mah",
+            "Ortaköy Mah",
+            "Oruçlu Mah",
+            "Paşalı Mah",
+            "Süphandere Mah",
+            "Şahmuratlı Mah",
+            "Tenkerli Mah",
+            "Tokmanaklı Mah",
+            "Tortulu Mah",
+            "Uğurlubağ Mah",
+            "Yaylapınar Mah",
+            "Yerebakan Mah"
+          ]
+        },
+        "Feke": {
+          "posta_kodu": 1660,
+          "mahalleler": [
+            "Belenköy Mah",
+            "Gökçeli Mah",
+            "İslam Mah",
+            "Karacaoğlan Mah",
+            "Karacauşağı Mah",
+            "Kazancı Mah",
+            "Keklikçi Mah",
+            "Sülemişli Mah",
+            "Yeşil Düşmüş Mah"
+          ]
+        }
+      },
+      "İmamoğlu": {
+        "İmamoğlu": {
+          "posta_kodu": 1700,
+          "mahalleler": [
+            "Adalet Mah",
+            "Cumhuriyet Mah",
+            "Fatih Mah",
+            "Hürriyet Mah",
+            "Menteş Mah",
+            "Tuna Mah"
+          ]
+        },
+        "Saygeçit": {
+          "posta_kodu": 1702,
+          "mahalleler": [
+            "Ağzıkaraca Mah",
+            "Alaybeyi Mah",
+            "Aliler Mah",
+            "Ayvalı Mah",
+            "Camili Mah",
+            "Çörten Mah",
+            "Danacılı Mah",
+            "Hacıhasanlı Mah",
+            "Koyunevi Mah",
+            "Malıhıdırlı Mah",
+            "Otluk Mah",
+            "Pekmezci Mah",
+            "Sayca Mah",
+            "Saygeçit Mah",
+            "Sevinçli Mah",
+            "Sokutaş Mah",
+            "Ufacıkören Mah",
+            "Uluçınar Mah",
+            "Üçtepe Mah",
+            "Yazıtepe Mah",
+            "Yenievler Mah"
+          ]
+        }
+      },
+      "Karaisalı": {
+        "Karaisalı": {
+          "posta_kodu": 1770,
+          "mahalleler": [
+            "Akçalı Mah",
+            "Aktaş Mah",
+            "Altınova Mah",
+            "Aşağıbelemedik Mah",
+            "Aşağıyörükler Mah",
+            "Ayakkıf Mah",
+            "Barakdağı Mah",
+            "Başkıf Mah",
+            "Bekirli Mah",
+            "Beydemir Mah",
+            "Bolacalı Mah",
+            "Bucak Mah",
+            "Çakallı Mah",
+            "Çatalan Mah",
+            "Çeceli Mah",
+            "Çevlik Mah",
+            "Çocuklar Mah",
+            "Çorlu Mah",
+            "Çukur Mah",
+            "Demirçit Mah",
+            "Döşekevi Mah",
+            "Durak Mah",
+            "Eğlence Mah",
+            "Emelcik Mah",
+            "Etekli Mah",
+            "Fettahlı Mah",
+            "Filikli Mah",
+            "Gildirli Mah",
+            "Gökhasanlı Mah",
+            "Gülüşlü Mah",
+            "Güvenç Mah",
+            "Hacılı Mah",
+            "Hacımusalı Mah",
+            "Kaledağı Mah",
+            "Kapıkaya Mah",
+            "Karahasanlı Mah",
+            "Karakılıç Mah",
+            "Karakuyu Mah",
+            "Karapınar Mah",
+            "Kıralan Mah",
+            "Kırıklı Mah",
+            "Kocaveliler Mah",
+            "Körüklü Mah",
+            "Kuşcusofulu Mah",
+            "Kuyucu Mah",
+            "Kuzgun Mah",
+            "Maraşlı Mah",
+            "Merkezboztahta Mah",
+            "Murtçukuru Mah",
+            "Nergizlik Mah",
+            "Nuhlu Mah",
+            "Ömerli Mah",
+            "Sadıkali Mah",
+            "Sarımehmetli Mah",
+            "Saypınar Mah",
+            "Selampınar Mah",
+            "Tatık Mah",
+            "Topaktaş Mah",
+            "Topkaralı Mah",
+            "Torunsolaklı Mah",
+            "Tümenli Mah",
+            "Yazıbaşı Mah"
+          ]
+        }
+      },
+      "Karataş": {
+        "Karataş": {
+          "posta_kodu": 1900,
+          "mahalleler": [
+            "Adalı Mah",
+            "Ataköy Mah",
+            "Bahçe Mah",
+            "Bebeli Mah",
+            "Çağşırlı Mah",
+            "Çakırören Mah",
+            "Çavuşlu Mah",
+            "Çimeli Mah",
+            "Çukurkamış Mah",
+            "Damlapınar Mah",
+            "Develiören Mah",
+            "Dolaplı Mah",
+            "Gölkaya Mah",
+            "Hacıhasan Mah",
+            "Hasırağacı Mah",
+            "Helvacı Mah",
+            "İnneplihüyüğü Mah",
+            "İsahacılı Mah",
+            "Kapı Mah",
+            "Karagöçer Mah",
+            "Karataş Mah",
+            "Karşıyaka Mah",
+            "Kemaliye Mah",
+            "Kesik Mah",
+            "Kırhasan Mah",
+            "Kızıltahta Mah",
+            "Kiremitli Mah",
+            "Meletmez Mah",
+            "Orta Mah",
+            "Oymaklı Mah",
+            "Sarımsak Mah",
+            "Sirkenli Mah",
+            "Tabaklar Mah",
+            "Tabur Mah",
+            "Terliksiz Mah",
+            "Topraklı Mah",
+            "Tuzkuyusu Mah",
+            "Tuzla Mah",
+            "Yassıveren Mah",
+            "Yemişli Mah",
+            "Yeni Mah",
+            "Yenimurat Mah",
+            "Yüzbaşı Mah"
+          ]
+        }
+      },
+      "Kozan": {
+        "Hacıbeyli": {
+          "posta_kodu": 1555,
+          "mahalleler": [
+            "Gazi Mah",
+            "Hacıbeyli Mah"
+          ]
+        },
+        "Kahveli": {
+          "posta_kodu": 1502,
+          "mahalleler": [
+            "Acarmantaş Mah",
+            "Akarca Mah",
+            "Akçalıuşağı Mah",
+            "Akdam Mah",
+            "Akkaya Mah",
+            "Alapınar Mah",
+            "Andıl Mah",
+            "Arslanlı Mah",
+            "Aydın Mah",
+            "Ayşehoca Mah",
+            "Bağözü Mah",
+            "Bağtepe Mah",
+            "Boztahta Mah",
+            "Bucak Mah",
+            "Bulduklu Mah",
+            "Çamdere Mah",
+            "Çamlarca Mah",
+            "Çandık Mah",
+            "Çelenuşağı Mah",
+            "Çobanpınarı Mah",
+            "Çokak Mah",
+            "Çukurören Mah",
+            "Çulluuşağı Mah",
+            "Çürüklü Mah",
+            "Damyeri Mah",
+            "Dikilitaş Mah",
+            "Dilekkaya Mah",
+            "Doğanalanı Mah",
+            "Duraluşağı Mah",
+            "Durmuşlu Mah",
+            "Düzağaç Mah",
+            "Enizçakırı Mah",
+            "Ergenuşağı Mah",
+            "Eskikabasakal Mah",
+            "Eskimantaş Mah",
+            "Faydalı Mah",
+            "Ferhatlı Mah",
+            "Gedikli Mah",
+            "Gökçeyol Mah",
+            "Gökgöz Mah",
+            "Görbeyaz Mah",
+            "Güneri Mah",
+            "Hacımirzalı Mah",
+            "Hamam Mah",
+            "Ilıca Mah",
+            "Işıkkaya Mah",
+            "Işıklı Mah",
+            "İdemköy Mah",
+            "Kabaktepe Mah",
+            "Kahveli Mah",
+            "Kalkumaç Mah",
+            "Kapıkaya Mah",
+            "Karabucak Mah",
+            "Karacaören Mah",
+            "Karahamzalı Mah",
+            "Karanebili Mah",
+            "Kemerköy Mah",
+            "Kıbrıslar Mah",
+            "Kızıllar Mah",
+            "Kızlarsekisi Mah",
+            "Köseli Mah",
+            "Kuytucak Mah",
+            "Kuyubeli Mah",
+            "Kuyuluk Mah",
+            "Mahyalar Mah",
+            "Marankeçili Mah",
+            "Minnetli Mah",
+            "Orçan Mah",
+            "Oruçlu Mah",
+            "Örendere Mah",
+            "Özbaşı Mah",
+            "Pekmezci Mah",
+            "Postkabasakal Mah",
+            "Salmanlı Mah",
+            "Şerifli Mah",
+            "Tepecikören Mah",
+            "Tufanlı Mah",
+            "Turgutlu Mah",
+            "Turunçlu Mah",
+            "Velicanlı Mah",
+            "Yanalerik Mah",
+            "Yassıçalı Mah",
+            "Yeniköy Mah",
+            "Yukarıkeçili Mah",
+            "Yüksekören Mah",
+            "Zerdali Mah"
+          ]
+        },
+        "Kozan": {
+          "posta_kodu": 1500,
+          "mahalleler": [
+            "Ağlıboğaz Mah",
+            "Arslanpaşa Mah",
+            "Bağlar Mah",
+            "Cumhuriyet Mah",
+            "Çanaklı Mah",
+            "Hacıuşağı Mah",
+            "Karacaoğlan Mah",
+            "Mahmutlu Mah",
+            "Şevkiye Mah",
+            "Taş Mah",
+            "Tavşantepe Mah",
+            "Tufanpaşa Mah",
+            "Türkeli Mah",
+            "Varsaklar Mah",
+            "Yarımoğlu Mah"
+          ]
+        }
+      },
+      "Pozantı": {
+        "Akçatekir": {
+          "posta_kodu": 1490,
+          "mahalleler": [
+            "Akçatekir Mah"
+          ]
+        },
+        "Gökbez": {
+          "posta_kodu": 1472,
+          "mahalleler": [
+            "Alpu Mah",
+            "Aşçıbekirli Mah",
+            "Belemedik Mah",
+            "Çamlıbel Mah",
+            "Dağdibi Mah",
+            "Eskikonacık Mah",
+            "Fındıklı Mah",
+            "Gökbez Mah",
+            "Hamidiye Mah",
+            "Kamışlı Mah",
+            "Karakışlakçı Mah",
+            "Ömerli Mah",
+            "Yağlıtaş Mah",
+            "Yazıcak Mah",
+            "Yenikonacık Mah",
+            "Yukarıbelemedik Mah"
+          ]
+        },
+        "Pozantı": {
+          "posta_kodu": 1470,
+          "mahalleler": [
+            "Cumhuriyet Mah",
+            "İstiklal Mah",
+            "Kurtuluş Mah",
+            "Zafer Mah"
+          ]
+        }
+      },
+      "Saimbeyli": {
+        "Saimbeyli": {
+          "posta_kodu": 1740,
+          "mahalleler": [
+            "Aksaağaç Mah",
+            "Avcıpınarı Mah",
+            "Ayvacık Mah",
+            "Beypınarı Mah",
+            "Cıvıklı Mah",
+            "Cumhurlu Mah",
+            "Çatak Mah",
+            "Çeralan Mah",
+            "Çorak Mah",
+            "Değirmenciuşağı Mah",
+            "Eyüplü Mah",
+            "Fatih Mah",
+            "Gökmenler Mah",
+            "Gürleşen Mah",
+            "Halilbeyli Mah",
+            "Himmetli Mah",
+            "İslam Mah",
+            "Kandilli Mah",
+            "Kapaklıkuyu Mah",
+            "Karakuyu Mah",
+            "Kızılağaç Mah",
+            "Mahmutlu Mah",
+            "Naltaş Mah",
+            "Topallar Mah",
+            "Tülü Mah",
+            "Yardibi Mah",
+            "Yeniköy Mah",
+            "Yeşilbağlar Mah"
+          ]
+        }
+      },
+      "Sarıçam": {
+        "Baklalı": {
+          "posta_kodu": 1410,
+          "mahalleler": [
+            "Acıdereosb Mah"
+          ]
+        },
+        "Buruk": {
+          "posta_kodu": 1460,
+          "mahalleler": [
+            "Beyceli Mah",
+            "Buruk Cumhuriyet Mah",
+            "İstiklal Mah",
+            "Sofudede Mah"
+          ]
+        },
+        "İncirlik": {
+          "posta_kodu": 1340,
+          "mahalleler": [
+            "Hürriyet Mah",
+            "Kemalpaşa Mah",
+            "Yeni Mah"
+          ]
+        },
+        "Osmangazi": {
+          "posta_kodu": 1790,
+          "mahalleler": [
+            "Acıdere Mah",
+            "Aflak Mah",
+            "Akkuyu Mah",
+            "Avcılar Mah",
+            "Aydınyurdu Mah",
+            "Ayvalı Mah",
+            "Bayram Hacılı Mah",
+            "Boynuyoğun Mah",
+            "Boztepe Mah",
+            "Büyük Baklalı Mah",
+            "Cerenli Mah",
+            "Cihadiye Mah",
+            "Çamlıca Mah",
+            "Çarkıpare Mah",
+            "Çaylı Mah",
+            "Çınarlı Mah",
+            "Çiçekli Mah",
+            "Çirişgediği Mah",
+            "Dağcı Mah",
+            "Dutluca Mah",
+            "Eğeciuşağı Mah",
+            "Ertuğrulgazi Mah",
+            "Gökbuket Mah",
+            "Göztepe Mah",
+            "Hakkıbeyli Mah",
+            "Hasanbeyli Mah",
+            "Hocallı Mah",
+            "Karaömerli Mah",
+            "Karayusuflu Mah",
+            "Kargakekeç Mah",
+            "Karlık Mah",
+            "Kaşobası Mah",
+            "Kepeztepe Mah",
+            "Kılbaş Mah",
+            "Kılıçlı Mah",
+            "Kızılkaş Mah",
+            "Kösefakılı Mah",
+            "Küçükbaklalı Mah",
+            "Maltepe Mah",
+            "Menekşe Mah",
+            "Mustafalar Mah",
+            "Müminli Mah",
+            "Osmangazi Mah",
+            "Sarıçam Mah",
+            "Suluca Mah",
+            "Turunçlu Mah",
+            "Ünlüce Mah",
+            "Yağızlar Mah",
+            "Yarımca Mah",
+            "Yeniyayla Mah",
+            "Yürekli Mah"
+          ]
+        },
+        "Remzioğuzarık": {
+          "posta_kodu": 1250,
+          "mahalleler": [
+            "Balcalı Mah",
+            "Esentepe Mah",
+            "Gültepe Mah",
+            "Mehmet Akif Ersoy Mah",
+            "Orhangazi Mah",
+            "Remzi Oğuz Arık Mah",
+            "Şahintepe Mah",
+            "Yavuz Sultan Selim Mah",
+            "Yeşiltepe Mah",
+            "Yıldırım Beyazıt Mah"
+          ]
+        }
+      },
+      "Seyhan": {
+        "Akkapı": {
+          "posta_kodu": 1040,
+          "mahalleler": [
+            "Akkapı Mah",
+            "Dağlıoğlu Mah"
+          ]
+        },
+        "Denizli": {
+          "posta_kodu": 1130,
+          "mahalleler": [
+            "Ahmet Remzi Yüreğir Mah",
+            "Denizli Mah",
+            "Kurtuluş Mah",
+            "Mithatpaşa Mah",
+            "Sakarya Mah"
+          ]
+        },
+        "Emek": {
+          "posta_kodu": 1080,
+          "mahalleler": [
+            "Emek Mah",
+            "Ova Mah",
+            "Şakirpaşa Mah",
+            "Uçak Mah"
+          ]
+        },
+        "Fevzipaşa": {
+          "posta_kodu": 1190,
+          "mahalleler": [
+            "Aydınlar Mah",
+            "Barış Mah",
+            "Fevzipaşa Mah"
+          ]
+        },
+        "Gazipaşa": {
+          "posta_kodu": 1120,
+          "mahalleler": [
+            "Cemalpaşa Mah",
+            "Reşatbey Mah"
+          ]
+        },
+        "Gülbahçesi": {
+          "posta_kodu": 1050,
+          "mahalleler": [
+            "Gülbahçesi Mah"
+          ]
+        },
+        "Gürselpaşa": {
+          "posta_kodu": 1200,
+          "mahalleler": [
+            "2000 Evler Mah",
+            "Bahçeşehir Mah",
+            "Gürselpaşa Mah",
+            "Yeni Mah"
+          ]
+        },
+        "Hadırlı": {
+          "posta_kodu": 1365,
+          "mahalleler": [
+            "Hadırlı Mah"
+          ]
+        },
+        "Hükümet": {
+          "posta_kodu": 1020,
+          "mahalleler": [
+            "Alidede Mah",
+            "Beşocak Mah",
+            "Mestanzade Mah",
+            "Sarıyakup Mah",
+            "Şehitduran Mah",
+            "Türkocağı Mah",
+            "Yenibey Mah"
+          ]
+        },
+        "Karayusuflu": {
+          "posta_kodu": 1355,
+          "mahalleler": [
+            "Bahçelievler Mah",
+            "Büyükçıldırım Mah",
+            "Büyükdikili Mah",
+            "Camuzcu Mah",
+            "Çaputçu Mah",
+            "Dervişler Mah",
+            "Dörtağaç Mah",
+            "Gökçeler Mah",
+            "Gölbaşı Mah",
+            "Karakuyu Mah",
+            "Karayusuflu Mah",
+            "Kayışlı Mah",
+            "Koyuncu Mah",
+            "Köylüoğlu Mah",
+            "Kuyumcular Mah",
+            "Küçükçıldırım Mah",
+            "Mürseloğlu Mah",
+            "Salmanbeyli Mah",
+            "Sarıhuğlar Mah",
+            "Serinevler Mah",
+            "Yalmanlı Mah",
+            "Yenidam Mah",
+            "Yolgeçen Mah",
+            "Zeytinli Mah"
+          ]
+        },
+        "Kuruköprü": {
+          "posta_kodu": 1060,
+          "mahalleler": [
+            "Çınarlı Mah",
+            "Döşeme Mah",
+            "Hanedan Mah",
+            "Hurmalı Mah",
+            "İstiklal Mah",
+            "Kocavezir Mah",
+            "Kuruköprü Mah"
+          ]
+        },
+        "Küçükdikili": {
+          "posta_kodu": 1430,
+          "mahalleler": [
+            "Kavaklı Mah",
+            "Koza Mah",
+            "Küçükdikili Mah",
+            "Mekan Mah"
+          ]
+        },
+        "Mavi Bulvar - Yurt": {
+          "posta_kodu": 1160,
+          "mahalleler": [
+            "Fatih Mah",
+            "Pınar Mah",
+            "Tellidere Mah"
+          ]
+        },
+        "Meydan": {
+          "posta_kodu": 1070,
+          "mahalleler": [
+            "Dumlupınar Mah",
+            "Gülpınar Mah",
+            "Meydan Mah",
+            "Mirzaçelebi Mah",
+            "Yeşilyuva Mah"
+          ]
+        },
+        "Saydam": {
+          "posta_kodu": 1030,
+          "mahalleler": [
+            "Barbaros Mah",
+            "Bey Mah",
+            "Havuzlubahçe Mah",
+            "Hürriyet Mah",
+            "Mıdık Mah",
+            "Sucuzade Mah"
+          ]
+        },
+        "Şakirpaşa": {
+          "posta_kodu": 1100,
+          "mahalleler": [
+            "Onur Mah",
+            "Yeşiloba Mah"
+          ]
+        },
+        "Yağcami": {
+          "posta_kodu": 1010,
+          "mahalleler": [
+            "Karasoku Mah",
+            "Kayalıbağ Mah",
+            "Tepebağ Mah",
+            "Ulucamii Mah"
+          ]
+        },
+        "Yeşilevler": {
+          "posta_kodu": 1180,
+          "mahalleler": [
+            "Demetevler Mah",
+            "İsmetpaşa Mah",
+            "Narlıca Mah",
+            "Yeşilevler Mah"
+          ]
+        },
+        "Yeşiloba": {
+          "posta_kodu": 1110,
+          "mahalleler": [
+            "Sarıhamzalı Mah",
+            "Söğütlü Mah"
+          ]
+        },
+        "Yeşilyurt": {
+          "posta_kodu": 1150,
+          "mahalleler": [
+            "Yenibaraj Mah",
+            "Yeşilyurt Mah"
+          ]
+        },
+        "Ziyapaşa": {
+          "posta_kodu": 1140,
+          "mahalleler": [
+            "Gazipaşa Mah",
+            "Namık Kemal Mah",
+            "Sümer Mah",
+            "Ziyapaşa Mah"
+          ]
+        }
+      },
+      "Tufanbeyli": {
+        "Damlalı": {
+          "posta_kodu": 1642,
+          "mahalleler": [
+            "Akçal Mah",
+            "Akpınar Mah",
+            "Ayvat Mah",
+            "Bolatpınarı Mah",
+            "Bozgüney Mah",
+            "Çatalçam Mah",
+            "Çukurkışla Mah",
+            "Damlalı Mah",
+            "Demiroluk Mah",
+            "Doğanbeyli Mah",
+            "Doğanlı Mah",
+            "Elemanlı Mah",
+            "Evci Mah",
+            "Fatmakuyu Mah",
+            "Güzelim Mah",
+            "Hanyeri Mah",
+            "İğdebel Mah",
+            "Karsavran Mah",
+            "Kayapınar Mah",
+            "Kayarcık Mah",
+            "Kirazlıyurt Mah",
+            "Koccağız Mah",
+            "Ortaköy Mah",
+            "Pekmezli Mah",
+            "Pınarlar Mah",
+            "Şar Mah",
+            "Taşpınar Mah",
+            "Tozlu Mah",
+            "Yamanlı Mah",
+            "Yeşilova Mah"
+          ]
+        },
+        "Tufanbeyli": {
+          "posta_kodu": 1640,
+          "mahalleler": [
+            "Cumhuriyet Mah",
+            "İstiklal Mah",
+            "Yenicami Mah"
+          ]
+        }
+      },
+      "Yumurtalık": {
+        "Kalemli": {
+          "posta_kodu": 1682,
+          "mahalleler": [
+            "Asmalı Mah",
+            "Ayvalık Mah",
+            "Demirtaş Mah",
+            "Deveciuşağı Mah",
+            "Gölovası Mah",
+            "Hamzalı Mah",
+            "Haylazlı Mah",
+            "Kaldırım Mah",
+            "Kalemli Mah",
+            "Kesmeburun Mah",
+            "Kırmızıdam Mah",
+            "Kuzupınarı Mah",
+            "Narlıören Mah",
+            "Sugözü Mah",
+            "Yeniköy Mah",
+            "Yeşilköy Mah",
+            "Yumurtalık Mah",
+            "Zeytinbeli Mah"
+          ]
+        },
+        "Yumurtalık": {
+          "posta_kodu": 1680,
+          "mahalleler": [
+            "Akdeniz Mah",
+            "Akyuva Mah",
+            "Ayas Mah",
+            "Devrişiye Mah",
+            "Kemalpaşa Mah",
+            "Ören Mah"
+          ]
+        }
+      },
+      "Yüreğir": {
+        "Abdioğlu": {
+          "posta_kodu": 1358,
+          "mahalleler": [
+            "Yakapınar Mah"
+          ]
+        },
+        "Alihocalı": {
+          "posta_kodu": 1415,
+          "mahalleler": [
+            "Abdioğlu Cumhuriyet Mah",
+            "Ağzıbüyük Mah",
+            "Akarcalı Mah",
+            "Akdam Mah",
+            "Akpınar Mah",
+            "Alihocalı Mah",
+            "Aydıncık Mah",
+            "Belören Mah",
+            "Beyköy Mah",
+            "Büyükkapılı Mah",
+            "Camili Mah",
+            "Cırık Mah",
+            "Cine Mah",
+            "Çağırkanlı Mah",
+            "Çatalpınar Mah",
+            "Çelemli Mah",
+            "Çotlu Mah",
+            "Danışment Mah",
+            "Dedepınarı Mah",
+            "Denizkuyusu Mah",
+            "Düzce Mah",
+            "Eğriağaç Mah",
+            "Esenler Mah",
+            "Geçitli Cumhuriyet Mah",
+            "Gökçeli Mah",
+            "Gümüşyazı Mah",
+            "Güveloğlu Mah",
+            "Hacıali Mah",
+            "Havraniye Mah",
+            "Herekli Mah",
+            "Irmakbaşı Mah",
+            "Kadıköy Mah",
+            "Kamışlı Mah",
+            "Karaahmetli Mah",
+            "Kaşlıca Mah",
+            "Kayarlı Mah",
+            "Köklüce Mah",
+            "Köprügözü Mah",
+            "Kütüklü Mah",
+            "Özler Mah",
+            "Paşaköy Mah",
+            "Pekmezli Mah",
+            "Sağdıçlı Mah",
+            "Sakızlı Mah",
+            "Sazak Mah",
+            "Şahinağa Mah",
+            "Şeyhmurat Mah",
+            "Taşçı Mah",
+            "Vayvaylı Mah",
+            "Yahşiler Mah",
+            "Yalnızca Mah",
+            "Yenice Mah",
+            "Yeniköy Mah",
+            "Yerdelen Mah",
+            "Yukarıçiçekli Mah",
+            "Yunusoğlu Cumhuriyet Mah",
+            "Yunusoğlu Hürriyet Mah",
+            "Zağarlı Mah"
+          ]
+        },
+        "Bahçelievler": {
+          "posta_kodu": 1285,
+          "mahalleler": [
+            "19 Mayıs Mah",
+            "Anadolu Mah",
+            "Bahçelievler Mah",
+            "Başak Mah",
+            "Dede Korkut Mah",
+            "Güzelevler Mah",
+            "Koza Mah",
+            "Levent Mah",
+            "Yeşil Bağlar Mah",
+            "Yunus Emre Mah"
+          ]
+        },
+        "Doğankent": {
+          "posta_kodu": 1370,
+          "mahalleler": [
+            "Doğankent Bahçelievler Mah",
+            "Doğankent Cumhuriyet Mah",
+            "Doğankent Kışla Mah",
+            "Gazipaşa Mah"
+          ]
+        },
+        "Havutlu": {
+          "posta_kodu": 1375,
+          "mahalleler": [
+            "Atatürk Mah",
+            "Havutlu Mah",
+            "Solaklı Cumhuriyet Mah",
+            "Solaklı Hürriyet Mah"
+          ]
+        },
+        "İncirlik": {
+          "posta_kodu": 1965,
+          "mahalleler": [
+            "İncirlik Cumhuriyet Mah"
+          ]
+        },
+        "Karacaoğlan": {
+          "posta_kodu": 1260,
+          "mahalleler": [
+            "Atakent Mah",
+            "Çamlıbel Mah",
+            "Dervişler Mah",
+            "Kiremithane Mah",
+            "Mutlu Mah",
+            "Şehit Erkut Akbay Mah",
+            "Tahsilli Mah",
+            "Ulubatlı Hasan Mah"
+          ]
+        },
+        "Karşıyaka": {
+          "posta_kodu": 1280,
+          "mahalleler": [
+            "Cumhuriyet Mah",
+            "Güneşli Mah"
+          ]
+        },
+        "Kazımkarabekir": {
+          "posta_kodu": 1230,
+          "mahalleler": [
+            "Kazım Karabekir Mah",
+            "Kışla Mah",
+            "Köprülü Mah"
+          ]
+        },
+        "Keresteciler": {
+          "posta_kodu": 1263,
+          "mahalleler": [
+            "Yenidoğan Mah"
+          ]
+        },
+        "Pttevleri": {
+          "posta_kodu": 1240,
+          "mahalleler": [
+            "Dadaloğlu Mah",
+            "Karacaoğlan Mah",
+            "P.t.t Mah",
+            "Selahattin Eyyubi Mah",
+            "Serinevler Mah"
+          ]
+        },
+        "Yakapınar": {
+          "posta_kodu": 1350,
+          "mahalleler": [
+            "Eski Misis Mah"
+          ]
+        },
+        "Yamaçlı": {
+          "posta_kodu": 1291,
+          "mahalleler": [
+            "Akdeniz Mah",
+            "Haydaroğlu Mah",
+            "Seyhan Mah",
+            "Yamaçlı Mah"
+          ]
+        },
+        "Yavuzlar": {
+          "posta_kodu": 1220,
+          "mahalleler": [
+            "Akıncılar Mah",
+            "Özgür Mah",
+            "Sarıçam Mah",
+            "Sinanpaşa Mah",
+            "Yavuzlar Mah"
+          ]
+        }
+      }
+    }
+  }
+}
